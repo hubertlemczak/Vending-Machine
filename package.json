@@ -1,0 +1,22 @@
+{
+  "name": "vending-machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hubertlemczak/Vending-Machine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hubertlemczak/Vending-Machine/issues"
+  },
+  "homepage": "https://github.com/hubertlemczak/Vending-Machine#readme",
+  "devDependencies": {
+    "eslint": "^8.17.0"
+  }
+}
